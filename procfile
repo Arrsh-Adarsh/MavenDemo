@@ -1,1 +1,1 @@
-web: java-jar target/MavenDemo.jar
+web: java-jar target/MavenDemo.war
